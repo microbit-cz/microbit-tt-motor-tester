@@ -12,6 +12,7 @@ def Test():
     fast = 140
 
     PCAmotor.motor_run(PCAmotor.Motors.M2, 200)
+
     basic.pause(5000)
     Block(fast, 1000, 1000, 0 )
     Block(mid, 1000, 1000, 1 )
@@ -21,9 +22,7 @@ def Test():
     
 input.on_button_pressed(Button.A, Test)
 
-def Stop():
-    PCAmotor.motor_run(PCAmotor.Motors.M2, 0)
-input.on_button_pressed(Button.B, Stop)
+
 
 def Block(speed, pause, number, index):
     print("block func")
@@ -34,7 +33,7 @@ def Block(speed, pause, number, index):
 
 def Speed(speed):
     print("speed func")
-    PCAmotor.motor_run(PCAmotor.Motors.M3, speed)
+    PCAmotor.motor_run(PCAmotor.Motors.M2, speed)
 
 def TurnsCount(x, index):
     global run1, run2, run3
@@ -57,6 +56,7 @@ def TurnsCount(x, index):
     
 
 def Grade():
+    PCAmotor.motor_run(PCAmotor.Motors.M3, 0)
     global run1, run2, run3
     print("grade func")
     print(run1)
