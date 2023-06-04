@@ -13,4 +13,4 @@
 ### Step 1: 
 * download and print [parts](./pieces.zip) or [parts as STL](./piecesSTL.zip) using a 3d printer
 * assemble as shown in the picture
-<img src="./images/foto7.jpg" width="150" height="150">
+* <img src="./images/foto7.jpg" width="150" height="150">
