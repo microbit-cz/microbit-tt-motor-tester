@@ -20,3 +20,11 @@
 * attach the sensor to the bracket
 <img src="./images/foto4.jpg" width="150" height="150"> 
 <img src="./images/foto14.jpg" width="150" height="150">
+
+### Step 3:
+* mount the engine on the structure
+<img src="./images/foto1.jpg" width="150" height="150">
+
+### Step 4:
+* connect the sensor to the Expansion board
+<img src="./images/foto6.jpg" width="150" height="150"> <img src="./images/foto8.jpg" width="150" height="150">
