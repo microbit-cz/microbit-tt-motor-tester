@@ -38,3 +38,9 @@
 * upload the code to the micro:bit [CODE HERE](./microbit-pppp_motor_test.hex)
 * you can take [code](./microbit-pppp_motor_test-asTextFile.txt) from the textfile
 * make sure to use [this](https://github.com/TomasKazda/pxt-magicbit-pca9685/) extension
+
+## How to use it
+
+* press the A buttons on the micro:bit and after the engine stops spinning press b
+* the micro:bit display shows a number from 1 - 10 depending on the engine rotation speed
+* when you connect microbit to [makecode](https://makecode.microbit.org/), you can see more information in the console
