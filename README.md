@@ -36,5 +36,5 @@
 
 ### Step 6:
 * upload the code to the micro:bit [CODE HERE](./microbit-pppp_motor_test.hex)
-* you can take [code](Update microbit-pppp_motor_test-asTextFile.txt) from the textfile
+* you can take [code](./microbit-pppp_motor_test-asTextFile.txt) from the textfile
 * make sure to use [this](https://github.com/TomasKazda/pxt-magicbit-pca9685/) extension
