@@ -26,6 +26,15 @@
 <img src="./images/foto1.jpg" width="150" height="150">
 
 ### Step 4:
-* connect the sensor to the Expansion board
+* connect the sensor to the Expansion board on the P0 pin
 <img src="./images/foto6.jpg" width="150" height="150">
 <img src="./images/foto8.jpg" width="150" height="150">
+
+### Step 5:
+* connect the engine to the Expansion board on the M2 slot
+<img src="./images/foto2.jpg" width="150" height="150">
+
+### Step 6:
+* upload the code to the micro:bit [CODE HERE](./microbit-pppp_motor_test.hex)
+* you can take [code](Update microbit-pppp_motor_test-asTextFile.txt) from the textfile
+* make sure to use [this](https://github.com/TomasKazda/pxt-magicbit-pca9685/) extension
