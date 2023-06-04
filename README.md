@@ -27,4 +27,5 @@
 
 ### Step 4:
 * connect the sensor to the Expansion board
-<img src="./images/foto6.jpg" width="150" height="150"> <img src="./images/foto8.jpg" width="150" height="150">
+<img src="./images/foto6.jpg" width="150" height="150">
+<img src="./images/foto8.jpg" width="150" height="150">
