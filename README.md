@@ -44,3 +44,6 @@
 * press the A buttons on the micro:bit and after the engine stops spinning press b
 * the micro:bit display shows a number from 1 - 10 depending on the engine rotation speed
 * when you connect microbit to [makecode](https://makecode.microbit.org/), you can see more information in the console
+
+## Tip:
+* if the engine doesn't start when the A button is pressed, you can turn the wheel a little in the direction of rotation and the engine should work normally
