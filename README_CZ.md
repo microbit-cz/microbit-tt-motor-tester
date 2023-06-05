@@ -41,7 +41,7 @@
 
 ## Jak ji používat
 
-* stiskněte tlačítko A na micro:bitu a poté, co se motor přestane točit, stiskněte b
+* stiskněte tlačítko A na micro:bitu
 * na displeji micro:bitu se zobrazí číslo od 1 do 10 v závislosti na rychlosti otáčení motoru
 * když připojíte micro:bit k [makecode](https://makecode.microbit.org/) se v konzoli zobrazí další informace.
 
