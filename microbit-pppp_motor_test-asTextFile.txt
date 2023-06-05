@@ -5,11 +5,9 @@ run3 = 0
 
 
 def Test():
-    print("test func")
-    
-    slow = 100
-    mid = 120
-    fast = 140
+    slow = 120
+    mid = 140
+    fast = 160
 
     PCAmotor.motor_run(PCAmotor.Motors.M2, 200)
 
@@ -19,7 +17,7 @@ def Test():
     Block(slow, 1000, 1000, 2 )
     PCAmotor.motor_run(PCAmotor.Motors.M2, 0)
     
-    
+    print("Press B")
 input.on_button_pressed(Button.A, Test)
 
 
@@ -37,14 +35,20 @@ def Speed(speed):
 
 def TurnsCount(x, index):
     global run1, run2, run3
-    
     print("turnscount func")
     turnscount = 0
     y = 0
+    hole = False;
     while (x != y):
-        if  pins.analog_read_pin(AnalogPin.P0) > 100:
-            turnscount += 1
-        basic.pause(1)
+        
+        if pins.analog_read_pin(AnalogPin.P0) > 100:
+            if hole == False:
+                turnscount += 1
+                hole = True
+        if pins.analog_read_pin(AnalogPin.P0) < 100:
+            hole = False
+        
+        basic.pause(.5)
         y +=1
     if index == 0: run1 = turnscount
     elif index == 1: run2 =turnscount
@@ -63,24 +67,25 @@ def Grade():
     print(run2)
     print(run3)
     AVG = (run1+run2+run3)/3
+    base = 135
     grade = 0
-    if AVG > 450:
+    if AVG > base + 50:
         grade = 10
-    elif AVG >= 440:
+    elif AVG >= base + 40:
         grade = 9
-    elif AVG >= 430:
+    elif AVG >= base + 30:
         grade = 8
-    elif AVG >= 420:
+    elif AVG >= base + 20:
         grade = 7
-    elif AVG >= 410:
+    elif AVG >= base + 10:
         grade = 6
-    elif AVG >= 400:
+    elif AVG >= base:
         grade = 5
-    elif AVG >= 390:
+    elif AVG >= base - 10:
         grade = 4
-    elif AVG >= 380:
+    elif AVG >= base - 20:
         grade = 3
-    elif AVG >= 370:
+    elif AVG >= base - 40:
         grade = 2
     else:
         grade = 1
