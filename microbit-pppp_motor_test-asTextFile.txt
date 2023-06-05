@@ -2,9 +2,10 @@ run1 = 0
 run2 = 0
 run3 = 0
 
-
-
 def Test():
+
+    basic.clear_screen()
+
     slow = 120
     mid = 140
     fast = 160
@@ -17,25 +18,19 @@ def Test():
     Block(slow, 1000, 1000, 2 )
     PCAmotor.motor_run(PCAmotor.Motors.M2, 0)
     
-    print("Press B")
+    Grade()
 input.on_button_pressed(Button.A, Test)
 
-
-
-def Block(speed, pause, number, index):
-    print("block func")
-    
+def Block(speed, pause, number, index):  
     Speed(speed)
     basic.pause(pause)
     TurnsCount(number , index)
 
 def Speed(speed):
-    print("speed func")
     PCAmotor.motor_run(PCAmotor.Motors.M2, speed)
 
 def TurnsCount(x, index):
     global run1, run2, run3
-    print("turnscount func")
     turnscount = 0
     y = 0
     hole = False;
@@ -54,18 +49,9 @@ def TurnsCount(x, index):
     elif index == 1: run2 =turnscount
     else: run3 = turnscount
     
-
-
-
-    
-
 def Grade():
     PCAmotor.motor_run(PCAmotor.Motors.M3, 0)
     global run1, run2, run3
-    print("grade func")
-    print(run1)
-    print(run2)
-    print(run3)
     AVG = (run1+run2+run3)/3
     base = 135
     grade = 0
@@ -89,6 +75,4 @@ def Grade():
         grade = 2
     else:
         grade = 1
-    print(grade)
     basic.show_number(grade)
-input.on_button_pressed(Button.B, Grade)
