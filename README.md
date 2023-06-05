@@ -46,4 +46,4 @@
 * when you connect microbit to [makecode](https://makecode.microbit.org/), you can see more information in the console
 
 ## Tip:
-* if the engine doesn't start when the A button is pressed, you can turn the wheel a little in the direction of rotation and the engine should work normally
+* if the engine doesn't start when the A button is pressed, you can turn the wheel a little in the direction of rotation and the engine should work normally(after pressing the A button there is a few seconds to do this)
