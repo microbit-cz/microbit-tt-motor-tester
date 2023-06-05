@@ -41,7 +41,7 @@
 
 ## How to use it
 
-* press the A buttons on the micro:bit and after the engine stops spinning press b
+* press the A buttons on the micro:bit 
 * the micro:bit display shows a number from 1 - 10 depending on the engine rotation speed
 * when you connect microbit to [makecode](https://makecode.microbit.org/), you can see more information in the console
 
