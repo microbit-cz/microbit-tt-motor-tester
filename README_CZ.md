@@ -24,6 +24,7 @@
 
 ### Krok 3:
 * připevnění převodovky na konstrukci
+* umístěte kolo na horní část motoru
 <img src="./images/foto1.jpg" width="150" height="150">
 
 ### Krok 4:
