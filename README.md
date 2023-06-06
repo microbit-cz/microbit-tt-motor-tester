@@ -25,6 +25,7 @@
 
 ### Step 3:
 * mount the engine on the structure
+* place the wheel on top of the engine
 <img src="./images/foto1.jpg" width="150" height="150">
 
 ### Step 4:
