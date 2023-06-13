@@ -41,7 +41,7 @@
 * z textového souboru můžete vzít [kód](./microbit-pppp_motor_test-asTextFile.txt).
 * nezapomeňte použít [extension](https://github.com/TomasKazda/pxt-magicbit-pca9685/)
 
-## Jak požívat
+## Jak používat
 
 * pomocí [makecode](https://makecode.microbit.org/) stáhněte kód do micro:bitu
 * stiskněte tlačítko A na micro:bitu
