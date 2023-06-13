@@ -6,9 +6,9 @@ def Test():
 
     basic.clear_screen()
 
-    slow = 120
-    mid = 140
-    fast = 160
+    slow = 125
+    mid = 190
+    fast = 255
 
     PCAmotor.motor_run(PCAmotor.Motors.M2, 200)
 
@@ -21,7 +21,7 @@ def Test():
     Grade()
 input.on_button_pressed(Button.A, Test)
 
-def Block(speed, pause, number, index):  
+def Block(speed, pause, number, index):
     Speed(speed)
     basic.pause(pause)
     TurnsCount(number , index)
@@ -53,7 +53,8 @@ def Grade():
     PCAmotor.motor_run(PCAmotor.Motors.M3, 0)
     global run1, run2, run3
     AVG = (run1+run2+run3)/3
-    base = 135
+    
+    base = 145
     grade = 0
     if AVG > base + 50:
         grade = 10
