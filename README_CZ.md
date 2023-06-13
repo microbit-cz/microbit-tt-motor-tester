@@ -41,11 +41,12 @@
 * z textového souboru můžete vzít [kód](./microbit-pppp_motor_test-asTextFile.txt).
 * nezapomeňte použít extension [this](https://github.com/TomasKazda/pxt-magicbit-pca9685/)
 
-## Jak ji používat
+## Jak požívat
 
+* pomocí [makecode](https://makecode.microbit.org/) stáhněte kód do micro:bitu
 * stiskněte tlačítko A na micro:bitu
 * na displeji micro:bitu se zobrazí číslo od 1 do 10 v závislosti na rychlosti otáčení motoru
-* když připojíte micro:bit k [makecode](https://makecode.microbit.org/) se v konzoli zobrazí další informace.
+
 
 ## Tip:
 * pokud motor po stisknutí tlačítka A nezačne otáčet, můžete trochu otočit kolem ve směru otáčení a motor by měl normálně fungovat(po stisknutí tlačítka A na to máte několik sekund na provedení).
