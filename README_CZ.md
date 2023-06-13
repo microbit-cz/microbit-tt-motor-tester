@@ -39,7 +39,7 @@
 ### Krok 6:
 * nahrajte kód do micro:bitu [kód zde](./microbit-pppp_motor_test.hex)
 * z textového souboru můžete vzít [kód](./microbit-pppp_motor_test-asTextFile.txt).
-* nezapomeňte použít extension [this](https://github.com/TomasKazda/pxt-magicbit-pca9685/)
+* nezapomeňte použít [extension](https://github.com/TomasKazda/pxt-magicbit-pca9685/)
 
 ## Jak požívat
 
