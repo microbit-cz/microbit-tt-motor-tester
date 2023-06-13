@@ -44,9 +44,10 @@
 
 ## How to use it
 
+* using [makecode](https://makecode.microbit.org/) download the code to the micro:bit
 * press the A buttons on the micro:bit 
 * the micro:bit display shows a number from 1 - 10 depending on the engine rotation speed
-* when you connect microbit to [makecode](https://makecode.microbit.org/), you can see more information in the console
+
 
 ## Tip:
 * if the engine doesn't start when the A button is pressed, you can turn the wheel a little in the direction of rotation and the engine should work normally(after pressing the A button there is a few seconds to do this)
