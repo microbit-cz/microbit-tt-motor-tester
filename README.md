@@ -19,7 +19,7 @@
 <img src="./images/foto7.jpg" width="150" height="150">
 
 ### Step 2: 
-* attach the sensor to the bracket
+* attach the sensor to the holder
 <img src="./images/foto4.jpg" width="150" height="150"> 
 <img src="./images/foto14.jpg" width="150" height="150">
 
