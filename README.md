@@ -1,5 +1,7 @@
 # Tester for robocar engine 
 
+<kbd>[<img title="Czech" alt="Czech" src="./README_CZ.md" width="22">][czechLanguage_MD]</kbd> <kbd>[<img title="English" alt="English" src="./README.md" width="22">][englishLanguage_MD]</kbd>
+
 ## What do you need?
 
  * Expansion board for micro:bit [link here](https://www.kittenbot.cc/products/robotbit-robotics-expansion-board-for-micro-bit)
