@@ -11,7 +11,8 @@
  * Wheel [link here](https://www.aliexpress.com/item/1005004090275305.html?spm=a2g0o.productlist.main.33.2e2132c4yzrIze&algo_pvid=7e561ce9-924b-4634-a5b0-a24c01f9505d&algo_exp_id=7e561ce9-924b-4634-a5b0-a24c01f9505d-16&pdp_npi=3%40dis%21CZK%21110.4%2118.21%21%21%21%21%21%402145280e16860420695952010d0749%2112000027997964120%21sea%21CZ%210&curPageLogUid=VNm0KlpMpYPE)
  * 10 grams of filament PLA
  * Screw with a diameter of 3 mm + nut + nut washer
- * The final price of the parts is around $27.40
+ * The final price of the parts is around $16.11
+ * Price with shiping $24
 
 ## How to proceed
 
