@@ -39,7 +39,7 @@
 
 ### Step 6:
 * upload the code to the micro:bit [CODE HERE](./microbit-pppp_motor_test.hex)
-* you can take [code](./microbit-pppp_motor_test-asTextFile.txt) from the textfile
+* open [code](https://makecode.microbit.org/_XkFhPTHhaHhv) in makecode
 * make sure to use [this](https://github.com/TomasKazda/pxt-magicbit-pca9685/) extension
 
 ## How to use it
