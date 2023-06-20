@@ -1,5 +1,7 @@
 # Tester pro motor roboautomobilu 
 
+[<img src="./images/cze_flag.jpg" width="22">](./README_CZ.md) [<img src="./images/eng_flag.png" width="22">](./README.md)
+
 ## Co potřebujete?
 
 * Rozšiřující deska pro micro:bit [odkaz](https://www.kittenbot.cc/products/robotbit-robotics-expansion-board-for-micro-bit)
