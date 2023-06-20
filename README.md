@@ -1,6 +1,6 @@
 # Tester for robocar engine 
 
-<kbd>[<img title="Czech" alt="Czech" src="./README_CZ.md" width="22">][czechLanguage_MD]</kbd> <kbd>[<img title="English" alt="English" src="./README.md" width="22">][englishLanguage_MD]</kbd>
+<kbd>[<img title="Czech" alt="Czech" src="./images/cze_flag" width="22">][./README_CZ.md]</kbd> <kbd>[<img title="English" alt="English" src="./images/eng_flag" width="22">][README_CZ.md]</kbd>
 
 ## What do you need?
 
