@@ -2,6 +2,8 @@
 
 <kbd>[<img title="Czech" alt="Czech" src="./images/cze_flag" width="22">][./README_CZ.md]</kbd> <kbd>[<img title="English" alt="English" src="./images/eng_flag" width="22">][README_CZ.md]</kbd>
 
+[<img src="./images/foto2.jpg" width="150" height="150">](./README_CZ.md)
+
 ## What do you need?
 
  * Expansion board for micro:bit [link here](https://www.kittenbot.cc/products/robotbit-robotics-expansion-board-for-micro-bit)
