@@ -16,7 +16,7 @@
 ## Jak postupovat
 
 ### Krok 1:
-* stáhněte a vytiskněte [díly](./pieces.zip) nebo [díly jako STL](./piecesSTL.zip) pomocí 3d tiskárny
+* stáhněte a vytiskněte [díly](./pieces/) pomocí 3d tiskárny
 * sestavte podle obrázku
 <img src="./images/foto7.jpg" width="150" height="150">
 
