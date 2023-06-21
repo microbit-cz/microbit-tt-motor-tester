@@ -1,6 +1,6 @@
 # Tester for robocar engine 
 
-<img src="./images/final.jpg" width="700" height="auto"> 
+<img src="./images/final.jpg" width="500" height="auto"> 
 
 [<img src="./images/cze_flag.jpg" width="22">](./README_CZ.md) [<img src="./images/eng_flag.png" width="22">](./README.md)
 
