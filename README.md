@@ -25,13 +25,13 @@
 
 ### Step 2: 
 * attach the sensor to the holder
-<img src="./images/foto4.jpg" width="150" height="150"> 
-<img src="./images/foto14.jpg" width="150" height="150">
+<img src="./images/cidlo_frontside.png" width="150" height="150"> 
+<img src="./images/cidlo_backside.png" width="150" height="150">
 
 ### Step 3:
 * mount the engine on the structure
 * place the wheel on top of the engine
-<img src="./images/foto1.jpg" width="150" height="150">
+<img src="./images/engineinplace.jpg" width="150" height="150">
 
 ### Step 4:
 * connect the sensor to the Expansion board on the P0 pin
