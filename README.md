@@ -51,7 +51,7 @@
 
 * using [makecode](https://makecode.microbit.org/) download the code to the micro:bit
 * press the A buttons on the micro:bit 
-* the micro:bit display shows a number from 1 - 10 depending on the engine rotation speed
+* the micro:bit display a number from 1 - 10 depending on the engine rotation speed
 
 
 ## Tip:
