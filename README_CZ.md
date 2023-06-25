@@ -24,13 +24,13 @@
 
 ### Krok 2:
 * připevněte snímač ke konstrukci
-<img src="./images/foto4.jpg" width="150" height="150"> 
-<img src="./images/foto14.jpg" width="150" height="150">
+<img src="./images/cidlo_backside.png" width="150" height="150"> 
+<img src="./images/cidlo_frontside.png" width="150" height="150">
 
 ### Krok 3:
 * připevnění převodovky na konstrukci
 * umístěte kolo na horní část motoru
-<img src="./images/foto1.jpg" width="150" height="150">
+<img src="./images/engineinplace.jpg" width="150" height="150">
 
 ### Krok 4:
 * připojte senzor k rozšiřující desce na pin P0.
